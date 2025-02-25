@@ -56,7 +56,7 @@ The pages for Student and Approver both have search and filter options so that y
 
 Create a .env file in the root directory of the project and configure the following variables:
 
-# Sample Environment Variables
+### Sample Environment Variables
 
 PORT=3000
 SALT="THIS_IS_A_SAMPLE_SECRET"
