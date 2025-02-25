@@ -58,8 +58,8 @@ Create a .env file in the root directory of the project and configure the follow
 
 ### Sample Environment Variables
 
-PORT=3000
-SALT="THIS_IS_A_SAMPLE_SECRET"
-DB_URL=mongodb://localhost:27017/sample-database
+`PORT=3000`
+`SALT="THIS_IS_A_SAMPLE_SECRET"`
+`DB_URL=mongodb://localhost:27017/sample-database`
 
 Ensure that your .env file is included in your .gitignore to prevent exposing sensitive information in version control.
