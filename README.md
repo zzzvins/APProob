@@ -4,6 +4,21 @@
 
 This program manages student clearance applications within an institution. Students can submit clearance applications via a GitHub link, wait for their applications to be approved/returned by their adviser and by a clearance officer, and then receive a PDF for their application if the application has been cleared.
 
+## Tech Stack
+- **Backend**: Node.js, Express
+- **Database**: MongoDB
+- **Frontend**: React, Tailwind CSS
+
+## Libraries and Tools
+- `bcrypt`: For hashing passwords
+- `express`: For building the server
+- `jsonwebtoken`: For creating and verifying JWT tokens
+- `mongoose`: For interacting with MongoDB
+- `axios`: For making HTTP requests
+- `react`: For building the user interface
+- `react-router-dom`: For routing in React applications
+- `tailwindcss`: For styling the frontend with Tailwind CSS
+  
 ## Usage Guidelines
 
 ### Student
